@@ -19,11 +19,10 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="40" height="40" alt="React.js" title="React.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL.svg" width="40" height="40" alt="SQL" title="SQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="40" height="40" alt="PHP" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSharp.svg" width="40" height="40" alt="C#" title="C#"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="40" height="40" alt="C#" title="C#"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="40" height="40" alt="Python" title="Python"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="40" height="40" alt="Java" title="Java"/>
 
