@@ -2,8 +2,8 @@
 
 ### Who I Am
 <div style="padding-bottom: 5px">
-I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing     bugs, completing cool features, and seeing the “final” result of my hard work.  
-    
+I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing     bugs, completing cool features, and seeing the “final” result of my hard work.
+<br>
 I’m from Brazil, specifically from the state of São Paulo. Currently, I’m enrolled at ETEC, a technical high school where I study I.T. with a focus on Web Development, although the curriculum covers much more.
 </div>
 
@@ -34,8 +34,8 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 <div style="padding: 5px">
 
 <h3>1. Night Owl Messenger</h3>
-A minimalistic and comfortable peer-to-peer chat app.  
-**Built with:**
+A minimalistic and comfortable peer-to-peer chat app. <br>
+Built with:
 - React
 - Node.js
 - Axios
@@ -43,13 +43,13 @@ A minimalistic and comfortable peer-to-peer chat app.
 - Bcrypt
 
 <h3>2. Calculator</h3>
-A simple calculator app.  
-**Built with:**
+A simple calculator app. <br>
+Built with:
 - React (w/ TypeScript)
 
 <h3>3. A Writing Practice Platform  </h3>
-A website for training your writing skills.  
-**Built with:**
+A website for training your writing skills. <br>
+Built with:
 - JavaScript
 - HTML/CSS
 </div>
