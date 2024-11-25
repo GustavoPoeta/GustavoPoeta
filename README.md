@@ -36,22 +36,28 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 <h3>1. Night Owl Messenger</h3>
 A minimalistic and comfortable peer-to-peer chat app. <br>
 Built with:
-- React
-- Node.js
-- Axios
-- Express
-- Bcrypt
+<ul>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Axios</li>
+  <li>Express</li>
+  <li>Bcrypt</li>
+</ul>
 
 <h3>2. Calculator</h3>
 A simple calculator app. <br>
 Built with:
-- React (w/ TypeScript)
+<ul>
+  <li>React (w/ TypeScript)</li>
+</ul>
 
 <h3>3. A Writing Practice Platform  </h3>
 A website for training your writing skills. <br>
 Built with:
-- JavaScript
-- HTML/CSS
+<ul>
+  <li>Javascript</li>
+  <li>HTML/CSS</li>
+</ul>
 </div>
 
 ---
