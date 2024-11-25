@@ -57,11 +57,8 @@ A website for training your writing skills.
 ---
 
 ### Contact Information
-<div>
-
 - 📞 +55 (19) 99250-1219  
 - ✉️ [gustavpoeta@gmail.com](mailto:gustavpoeta@gmail.com) (preferred) or [gu.poeta2007@gmail.com](mailto:gu.poeta2007@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-teixeira-poeta-694518329/)
-</div
 
 ### Feel free to message me! Goodbye.
