@@ -57,7 +57,7 @@ A website for training your writing skills.
 ---
 
 ### Contact Information
-<div style="display: flex; flex-direction: column; justify-content: space-evenly;">
+<div>
 
 - 📞 +55 (19) 99250-1219  
 - ✉️ [gustavpoeta@gmail.com](mailto:gustavpoeta@gmail.com) (preferred) or [gu.poeta2007@gmail.com](mailto:gu.poeta2007@gmail.com)
