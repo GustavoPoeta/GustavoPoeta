@@ -13,10 +13,10 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 ### Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Light.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript-Light.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML-Light.svg" width="40" height="40" alt="HTML" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS-Light.svg" width="40" height="40" alt="CSS" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="40" height="40" alt="React.js" title="React.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL.svg" width="40" height="40" alt="SQL" title="SQL"/>
