@@ -33,7 +33,7 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 ### Best Projects
 <div style="padding: 5px">
 
-<h2>1. Night Owl Messenger</h2>
+<h4>1. Night Owl Messenger</h4>
 A minimalistic and comfortable peer-to-peer chat app.  
 **Built with:**
 - React
@@ -42,12 +42,12 @@ A minimalistic and comfortable peer-to-peer chat app.
 - Express
 - Bcrypt
 
-<h2>2. Calculator</h2>
+<h4>2. Calculator</h4>
 A simple calculator app.  
 **Built with:**
 - React (w/ TypeScript)
 
-<h2>3. A Writing Practice Platform  </h2>
+<h4>3. A Writing Practice Platform  </h4>
 A website for training your writing skills.  
 **Built with:**
 - JavaScript
