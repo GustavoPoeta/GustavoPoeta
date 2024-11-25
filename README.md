@@ -2,11 +2,13 @@
 
 ---
 
+<div style="padding: 5px">
 ## Who I Am
 
-I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing bugs, completing cool features, and seeing the “final” result of my hard work.  
-  
+I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing     bugs, completing cool features, and seeing the “final” result of my hard work.  
+    
 I’m from Brazil, specifically from the state of São Paulo. Currently, I’m enrolled at ETEC, a technical high school where I study I.T. with a focus on Web Development, although the curriculum covers much more.
+</div>
 
 ---
 
@@ -18,6 +20,9 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="40" height="40" alt="C#" title="C#"/>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="40" height="40" alt="React.js" title="React.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
@@ -25,11 +30,10 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="40" height="40" alt="PHP" title="PHP"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="40" height="40" alt="Python" title="Python"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="40" height="40" alt="Java" title="Java"/>
-
 </div>
 
 ---
-
+<div style="padding: 5px">
 ## Projects
 
 ### 1. Night Owl Messenger
@@ -51,9 +55,9 @@ A website for training your writing skills.
 **Built with:**
 - JavaScript
 - HTML/CSS
-
+</div>
 ---
-
+<div style="padding: 5px">
 ### Contact Information
 
 - 📞 +55 (19) 99250-1219  
@@ -61,7 +65,7 @@ A website for training your writing skills.
 - ✉️ [gustavpoeta@gmail.com](mailto:gustavpoeta@gmail.com) (preferred) or [gu.poeta2007@gmail.com](mailto:gu.poeta2007@gmail.com)
 --
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-teixeira-poeta-694518329/)
-
+</div
 ---
 
 ### Feel free to message me! Goodbye.
