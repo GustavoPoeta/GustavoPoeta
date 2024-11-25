@@ -1,7 +1,5 @@
 ## Good Morning/Afternoon/Evening
 
----
-
 <div style="padding: 5px">
 ## Who I Am
 
