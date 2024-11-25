@@ -2,18 +2,38 @@
 
 ---
 
+
+
+
+
 ## Who I am
   I'm a Full-Stack Web Developer that is passionate about technology, AI (even though I've barely wet my feet in it), and solving problems.
   What excites me in this career is the euphoria of fixing a bug, finishing a cool feature and seeing the "final" result of my hard labor.
   Btw I'm from Brazil, more specifically from the state of São Paulo. I'm enrolled at a technical high-school called ETEC where I study I.T 
   focused in Web Development, but it teaches much more as well.
 
+
+
+
+
 ---
+
+
+
+
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPoeta)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+
 ---
+
+
+
+
 
 ### Skills
 
@@ -31,7 +51,15 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"/>  
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" title="Java"/>  
 
+
+
+
+
 ---
+
+
+
+
 
 ## Projects
   1. Night Owl Messenger
@@ -53,13 +81,23 @@
        - Javascript
        - HTML/CSS
 
+
+
+
+
 ---
+
+
+
+
 
 ### Contact Information
   📞 55+ (19) 99250-1219
   ✉️ gustavpoeta@gmail.com (preferable) or gu.poeta2007@gmail.com
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-teixeira-poeta-694518329/)
   
+
+
 
    
 ### Feel free to message me! Goodbye 
