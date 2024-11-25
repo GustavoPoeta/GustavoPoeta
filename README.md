@@ -1,6 +1,6 @@
 ## Good Morning/Afternoon/Evening
 
-## Who I Am
+### Who I Am
 <div style="padding-bottom: 5px">
 I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing     bugs, completing cool features, and seeing the “final” result of my hard work.  
     
@@ -30,10 +30,10 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 </div>
 
 ---
-## Projects
+### Projects
 <div style="padding: 5px">
 
-1. Night Owl Messenger
+1. <h2>Night Owl Messenger</h2>
 A minimalistic and comfortable peer-to-peer chat app.  
 **Built with:**
 - React
@@ -42,12 +42,12 @@ A minimalistic and comfortable peer-to-peer chat app.
 - Express
 - Bcrypt
 
-2. Calculator
+2. <h2>Calculator</h2>
 A simple calculator app.  
 **Built with:**
 - React (w/ TypeScript)
 
-3. A Writing Practice Platform  
+3. <h2>A Writing Practice Platform  </h2>
 A website for training your writing skills.  
 **Built with:**
 - JavaScript
@@ -61,7 +61,7 @@ A website for training your writing skills.
 
 - 📞 +55 (19) 99250-1219  
 - ✉️ [gustavpoeta@gmail.com](mailto:gustavpoeta@gmail.com) (preferred) or [gu.poeta2007@gmail.com](mailto:gu.poeta2007@gmail.com)
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-teixeira-poeta-694518329/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-teixeira-poeta-694518329/)
 </div
 
 ### Feel free to message me! Goodbye.
