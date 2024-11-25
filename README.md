@@ -1,8 +1,7 @@
 ## Good Morning/Afternoon/Evening
 
-<div style="padding: 5px">
 ## Who I Am
-
+<div style="padding-bottom: 5px">
 I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing     bugs, completing cool features, and seeing the “final” result of my hard work.  
     
 I’m from Brazil, specifically from the state of São Paulo. Currently, I’m enrolled at ETEC, a technical high school where I study I.T. with a focus on Web Development, although the curriculum covers much more.
@@ -31,10 +30,10 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 </div>
 
 ---
-<div style="padding: 5px">
 ## Projects
+<div style="padding: 5px">
 
-### 1. Night Owl Messenger
+1. Night Owl Messenger
 A minimalistic and comfortable peer-to-peer chat app.  
 **Built with:**
 - React
@@ -43,12 +42,12 @@ A minimalistic and comfortable peer-to-peer chat app.
 - Express
 - Bcrypt
 
-### 2. Calculator
+2. Calculator
 A simple calculator app.  
 **Built with:**
 - React (w/ TypeScript)
 
-### 3. A Writing Practice Platform  
+3. A Writing Practice Platform  
 A website for training your writing skills.  
 **Built with:**
 - JavaScript
@@ -57,8 +56,8 @@ A website for training your writing skills.
 
 ---
 
-<div style="padding: 5px; display: flex; flex-direction: column; justify-content: space-evenly;">
 ### Contact Information
+<div style="display: flex; flex-direction: column; justify-content: space-evenly;">
 
 - 📞 +55 (19) 99250-1219  
 - ✉️ [gustavpoeta@gmail.com](mailto:gustavpoeta@gmail.com) (preferred) or [gu.poeta2007@gmail.com](mailto:gu.poeta2007@gmail.com)
