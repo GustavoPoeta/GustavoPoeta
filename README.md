@@ -17,16 +17,20 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="40" height="40" alt="C#" title="C#"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="40" height="40" alt="GO" title="GO"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" width="40" height="40" alt="React.js" title="React.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="40" height="40" alt="PHP" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="40" height="40" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" height="40" alt="React.js" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" height="40" alt="PHP" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="40" height="40" alt="Linux" title="Linux"/>
 </div>
 
 ---
