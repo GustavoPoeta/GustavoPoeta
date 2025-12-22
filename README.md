@@ -37,8 +37,22 @@ I’m from Brazil, specifically from the state of São Paulo. Currently, I’m e
 ### Best Projects
 <div style="padding: 5px">
 
-<h3>1. Night Owl Messenger</h3>
+<h3>1. Resume Bank</h3>
+An online resume bank platform built as a final paper for Centro Paula Souza - Etec Prof. Jadyr Salles. <br>
+It was built for students to create their resume and share it with interested companies. <br>
+We implemented a MVC pattern using vanilla PHP. <br>
+<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">Link to project</a>
+<br>
+Built with:
+<ul>
+  <li>Html & Css</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+</ul>
+
+<h3>2. Night Owl Messenger</h3>
 A minimalistic and comfortable peer-to-peer chat app. <br>
+<a href="https://github.com/GustavoPoeta/Messenger">Link to project</a> <br>
 Built with:
 <ul>
   <li>React</li>
@@ -48,15 +62,17 @@ Built with:
   <li>Bcrypt</li>
 </ul>
 
-<h3>2. Calculator</h3>
+<h3>3. Calculator</h3>
 A simple calculator app. <br>
+<a href="https://github.com/GustavoPoeta/calculator">Link to project</a> <br>
 Built with:
 <ul>
   <li>React (w/ TypeScript)</li>
 </ul>
 
-<h3>3. A Writing Practice Platform  </h3>
+<h3>4. A Writing Practice Platform  </h3>
 A website for training your writing skills. <br>
+<a href="https://github.com/GustavoPoeta/TypingSite">Link to project</a> <br>
 Built with:
 <ul>
   <li>Javascript</li>
