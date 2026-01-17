@@ -16,40 +16,40 @@ Backend, DevOps & Databases
 
 1️⃣ FollowMe – Real-Time Mobile Application <br>
 📱 A full-stack mobile application focused on real-time communication and geolocation. <br>
-Highlights: <br>
+Highlights:
 <ul>
 <li>Secure authentication using JWT (Access & Refresh Tokens)</li>
 <li>Backend built with ASP.NET Core + Identity</li>
 <li>Real-time updates using SignalR</li>
 <li>RabbitMQ for message brokering and scalability</li>
 <li>Location sharing and geospatial features</li>
-</ul> <br>
+</ul>
 Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR <br>
 <a href="https://github.com/GustavoPoeta/FollowMe-api">🔗 View API Repository</a> <br>
-<a href="https://github.com/GustavoPoeta/FollowMe">🔗 View Front-end Repository</a> <br>
+<a href="https://github.com/GustavoPoeta/FollowMe">🔗 View Front-end Repository</a> <br> <br>
 
 2️⃣ Resume Bank – Academic & Professional Platform <br>
 📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.<br>
-Highlights:<br>
+Highlights:
 <ul>
 <li>MVC architecture using vanilla PHP</li>
 <li>Focus on data protection and LGPD compliance</li>
 <li>Designed to connect students with companies</li>
 <li>Emphasis on security, organization, and usability</li>
-</ul> <br>
+</ul>
 Tech Stack: HTML, CSS, JavaScript, PHP <br>
-<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a> <br>
+<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a> <br> <br>
 
 3️⃣ Night Owl Messenger – Peer-to-Peer Chat <br>
 💬 A minimalistic and comfortable real-time chat application. <br>
-Highlights: <br>
+Highlights:
 <ul>
 <li>RESTful backend with Express</li>
 <li>Secure password hashing using Bcrypt</li>
 <li>Clean and simple UI</li>
-</ul> <br>
+</ul>
 Tech Stack: React, Node.js, Express, Axios <br>
-<a href="https://github.com/GustavoPoeta/Messenger">🔗 View Repository</a> <br>
+<a href="https://github.com/GustavoPoeta/Messenger">🔗 View Repository</a> <br> <br>
 
 📫 Contact Me: <br> 
 📞 Phone: +55 (19) 99250-1219 <br>
