@@ -14,47 +14,47 @@ Backend, DevOps & Databases
 
 🏆 Featured Projects
 
-1️⃣ FollowMe – Real-Time Mobile Application
-📱 A full-stack mobile application focused on real-time communication and geolocation.
-Highlights:
-Secure authentication using JWT (Access & Refresh Tokens)
-Backend built with ASP.NET Core + Identity
-Real-time updates using SignalR
-RabbitMQ for message brokering and scalability
-Location sharing and geospatial features
-Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR
-<a href="https://github.com/GustavoPoeta/FollowMe-api">🔗 View API Repository</a>
-<a href="https://github.com/GustavoPoeta/FollowMe">🔗 View Front-end Repository</a>
+1️⃣ FollowMe – Real-Time Mobile Application <br>
+📱 A full-stack mobile application focused on real-time communication and geolocation. <br>
+Highlights: <br>
+<ul>
+<li>Secure authentication using JWT (Access & Refresh Tokens)</li>
+<li>Backend built with ASP.NET Core + Identity</li>
+<li>Real-time updates using SignalR</li>
+<li>RabbitMQ for message brokering and scalability</li>
+<li>Location sharing and geospatial features</li>
+</ul> <br>
+Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR <br>
+<a href="https://github.com/GustavoPoeta/FollowMe-api">🔗 View API Repository</a> <br>
+<a href="https://github.com/GustavoPoeta/FollowMe">🔗 View Front-end Repository</a> <br>
 
-2️⃣ Resume Bank – Academic & Professional Platform
-📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.
-Highlights:
-MVC architecture using vanilla PHP
-Focus on data protection and LGPD compliance
-Designed to connect students with companies
-Emphasis on security, organization, and usability
-Tech Stack: HTML, CSS, JavaScript, PHP
-<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a>
+2️⃣ Resume Bank – Academic & Professional Platform <br>
+📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.<br>
+Highlights:<br>
+<ul>
+<li>MVC architecture using vanilla PHP</li>
+<li>Focus on data protection and LGPD compliance</li>
+<li>Designed to connect students with companies</li>
+<li>Emphasis on security, organization, and usability</li>
+</ul> <br>
+Tech Stack: HTML, CSS, JavaScript, PHP <br>
+<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a> <br>
 
-3️⃣ Night Owl Messenger – Peer-to-Peer Chat
-💬 A minimalistic and comfortable real-time chat application.
-Highlights:
-RESTful backend with Express
-Secure password hashing using Bcrypt
-Clean and simple UI
-Tech Stack: React, Node.js, Express, Axios
-<a href="https://github.com/GustavoPoeta/Messenger">🔗 View Repository</a>
+3️⃣ Night Owl Messenger – Peer-to-Peer Chat <br>
+💬 A minimalistic and comfortable real-time chat application. <br>
+Highlights: <br>
+<ul>
+<li>RESTful backend with Express</li>
+<li>Secure password hashing using Bcrypt</li>
+<li>Clean and simple UI</li>
+</ul> <br>
+Tech Stack: React, Node.js, Express, Axios <br>
+<a href="https://github.com/GustavoPoeta/Messenger">🔗 View Repository</a> <br>
 
-4️⃣ Writing Practice Platform
-⌨️ A lightweight web platform to improve typing and writing skills.
-Tech Stack: JavaScript, HTML, CSS
-<a href="https://github.com/GustavoPoeta/TypingSite"> 🔗 View Repository </a>
-
-📫 Contact Me
-📞 Phone: +55 (19) 99250-1219
-✉️ Email: gustavpoeta@gmail.com
- (preferred)
-💼 <a href="www.linkedin.com/in/gustavopoeta">LinkedIn</a>
+📫 Contact Me: <br> 
+📞 Phone: +55 (19) 99250-1219 <br>
+✉️ Email: gustavpoeta@gmail.com (preferred) <br>
+💼 <a href="www.linkedin.com/in/gustavopoeta">LinkedIn</a> <br>
 
 
 Feel free to explore my repositories or reach out — I’m always open to learning, collaborating, and new opportunities.
