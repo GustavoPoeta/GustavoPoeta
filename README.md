@@ -1,90 +1,60 @@
-## Good Morning/Afternoon/Evening
+👋 Hi there! I’m Gustavo Poeta
+🚀 Full-Stack Web Developer | Computer Engineering Student
 
-### Who I Am
-<div style="padding-bottom: 5px">
-I am a Full-Stack Web Developer passionate about technology, AI (even though I’ve only dipped my toes in it so far), and solving problems. What excites me about this career is the euphoria of fixing     bugs, completing cool features, and seeing the “final” result of my hard work.
-<br>
-I’m from Brazil, specifically from the state of São Paulo. Currently, I’m enrolled at ETEC, a technical high school where I study I.T. with a focus on Web Development, although the curriculum covers much more.
-</div>
+I’m a Full-Stack Developer passionate about building secure, scalable, and high-performance applications. What truly excites me about software development is the process: debugging complex issues, designing clean architectures, implementing meaningful features, and seeing ideas turn into real products.
+I’m based in São Paulo, Brazil, currently studying Computer Engineering at Fundação Hermínio Ometto, and I’m a certified IT Technician by ETEC. Despite my age, I already have hands-on experience across frontend, backend, authentication, databases, and real-time systems, always with a strong focus on security, performance, and best practices.
 
----
+🧠 Technical Skills
+Languages & Core Technologies
+<p> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" title="JavaScript"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" title="Python"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" title="Java"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" title="PHP"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="40" title=".NET / C#"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="40" title="Go"/> </p>
+Frontend
+<p> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" title="HTML"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" title="CSS"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" title="React"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40" title="Next.js"/> </p>
+Backend, DevOps & Databases
+<p> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" title="PostgreSQL"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" title="MySQL"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="40" title="Docker"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="40" title="Git"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="40" title="Linux"/> </p>
 
-### Skills
+🏆 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40" alt="HTML" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40" alt="CSS" title="CSS"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="40" height="40" alt="C#" title="C#"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="40" height="40" alt="GO" title="GO"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="40" height="40" alt="Docker" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="40" height="40" alt="Git" title="Git"/>
-</div>
+1️⃣ FollowMe – Real-Time Mobile Application
+📱 A full-stack mobile application focused on real-time communication and geolocation.
+Highlights:
+Secure authentication using JWT (Access & Refresh Tokens)
+Backend built with ASP.NET Core + Identity
+Real-time updates using SignalR
+RabbitMQ for message brokering and scalability
+Location sharing and geospatial features
+Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR
+<a href="https://github.com/GustavoPoeta/FollowMe-api">🔗 View API Repository</a>
+<a href="https://github.com/GustavoPoeta/FollowMe">🔗 View Front-end Repository</a>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" height="40" alt="React.js" title="React.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" height="40" alt="MySQL" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" height="40" alt="PHP" title="PHP"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" height="40" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" height="40" alt="Java" title="Java"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="40" height="40" alt="Linux" title="Linux"/>
-</div>
+2️⃣ Resume Bank – Academic & Professional Platform
+📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.
+Highlights:
+MVC architecture using vanilla PHP
+Focus on data protection and LGPD compliance
+Designed to connect students with companies
+Emphasis on security, organization, and usability
+Tech Stack: HTML, CSS, JavaScript, PHP
+<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a>
 
----
-### Best Projects
-<div style="padding: 5px">
+3️⃣ Night Owl Messenger – Peer-to-Peer Chat
+💬 A minimalistic and comfortable real-time chat application.
+Highlights:
+RESTful backend with Express
+Secure password hashing using Bcrypt
+Clean and simple UI
+Tech Stack: React, Node.js, Express, Axios
+<a href="https://github.com/GustavoPoeta/Messenger">🔗 View Repository</a>
 
-<h3>1. Resume Bank</h3>
-An online resume bank platform built as a final paper for Centro Paula Souza - Etec Prof. Jadyr Salles. <br>
-It was built for students to create their resume and share it with interested companies. <br>
-We implemented a MVC pattern using vanilla PHP. <br>
-<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">Link to project</a>
-<br>
-Built with:
-<ul>
-  <li>Html & Css</li>
-  <li>Javascript</li>
-  <li>PHP</li>
-</ul>
+4️⃣ Writing Practice Platform
+⌨️ A lightweight web platform to improve typing and writing skills.
+Tech Stack: JavaScript, HTML, CSS
+<a href="https://github.com/GustavoPoeta/TypingSite"> 🔗 View Repository </a>
 
-<h3>2. Night Owl Messenger</h3>
-A minimalistic and comfortable peer-to-peer chat app. <br>
-<a href="https://github.com/GustavoPoeta/Messenger">Link to project</a> <br>
-Built with:
-<ul>
-  <li>React</li>
-  <li>Node.js</li>
-  <li>Axios</li>
-  <li>Express</li>
-  <li>Bcrypt</li>
-</ul>
+📫 Contact Me
+📞 Phone: +55 (19) 99250-1219
+✉️ Email: gustavpoeta@gmail.com
+ (preferred)
+💼 <a href="www.linkedin.com/in/gustavopoeta">LinkedIn</a>
 
-<h3>3. Calculator</h3>
-A simple calculator app. <br>
-<a href="https://github.com/GustavoPoeta/calculator">Link to project</a> <br>
-Built with:
-<ul>
-  <li>React (w/ TypeScript)</li>
-</ul>
 
-<h3>4. A Writing Practice Platform  </h3>
-A website for training your writing skills. <br>
-<a href="https://github.com/GustavoPoeta/TypingSite">Link to project</a> <br>
-Built with:
-<ul>
-  <li>Javascript</li>
-  <li>HTML/CSS</li>
-</ul>
-</div>
-
----
-
-### Contact Information
-- 📞 +55 (19) 99250-1219  
-- ✉️ [gustavpoeta@gmail.com](mailto:gustavpoeta@gmail.com) (preferred) or [gu.poeta2007@gmail.com](mailto:gu.poeta2007@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-teixeira-poeta-694518329/)
-
-### Feel free to message me! Goodbye.
+Feel free to explore my repositories or reach out — I’m always open to learning, collaborating, and new opportunities.
