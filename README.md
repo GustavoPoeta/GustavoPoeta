@@ -25,8 +25,6 @@ Highlights:
 <li>Location sharing and geospatial features</li>
 </ul>
 Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR <br>
-<a href="https://github.com/GustavoPoeta/FollowMe-api">🔗 View API Repository</a> <br>
-<a href="https://github.com/GustavoPoeta/FollowMe">🔗 View Front-end Repository</a> <br> <br>
 
 2️⃣ Resume Bank – Academic & Professional Platform <br>
 📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.<br>
