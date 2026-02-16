@@ -26,7 +26,18 @@ Highlights:
 </ul>
 Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR <br>
 
-2️⃣ Resume Bank – Academic & Professional Platform <br>
+2️⃣ PigeOn – -Time Friendship and Messaging System <br>
+📱 PigeOn is a practical back-end application demonstrating how to build friendship and messaging systems with real-time notifications  <br>
+Highlights:
+<ul>
+<li>Backend built with ASP.NET Core</li>
+<li>Real-time updates using SignalR</li>
+<li>Secure friendship system that preserves user integrity by guaranteeing that it is mutual.</li>
+<li>Real-time messaging system.</li>
+</ul>
+Tech Stack: ASP.NET Core, NATS, SignalR <br>
+
+3️⃣ Resume Bank – Academic & Professional Platform <br>
 📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.<br>
 Highlights:
 <ul>
@@ -38,7 +49,7 @@ Highlights:
 Tech Stack: HTML, CSS, JavaScript, PHP <br>
 <a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a> <br> <br>
 
-3️⃣ Night Owl Messenger – Peer-to-Peer Chat <br>
+4️⃣ Night Owl Messenger – Peer-to-Peer Chat <br>
 💬 A minimalistic and comfortable real-time chat application. <br>
 Highlights:
 <ul>
