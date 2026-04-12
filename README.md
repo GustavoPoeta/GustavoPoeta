@@ -24,7 +24,7 @@
 
 ###
 
-# `<hi!>` 👋
+<h1 align="center">&lt;hi!&gt; 👋</h1>
 
 ###
 
