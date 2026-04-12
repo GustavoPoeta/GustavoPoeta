@@ -1,69 +1,115 @@
-👋 Hi there! I’m Gustavo Poeta
-🚀 Full-Stack Web Developer | Computer Engineering Student
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-I’m a Full-Stack Developer passionate about building secure, scalable, and high-performance applications. What truly excites me about software development is the process: debugging complex issues, designing clean architectures, implementing meaningful features, and seeing ideas turn into real products.
-I’m based in São Paulo, Brazil, currently studying Computer Engineering at Fundação Hermínio Ometto, and I’m a certified IT Technician by ETEC. Despite my age, I already have hands-on experience across frontend, backend, authentication, databases, and real-time systems, always with a strong focus on security, performance, and best practices.
+###
 
-🧠 Technical Skills
-Languages & Core Technologies
-<p> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" title="JavaScript"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="40" title="TypeScript"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="40" title="Python"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="40" title="Java"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" title="PHP"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" width="40" title=".NET / C#"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg" width="40" title="Go"/> </p>
-Frontend
-<p> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" title="HTML"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" title="CSS"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" title="React"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="40" title="Next.js"/> </p>
-Backend, DevOps & Databases
-<p> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="40" title="PostgreSQL"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" title="MySQL"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width="40" title="Docker"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width="40" title="Git"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" width="40" title="Linux"/> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavopoeta/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.link/knt30p" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="gustavpoeta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-🏆 Featured Projects
+###
 
-1️⃣ FollowMe – Real-Time Mobile Application <br>
-📱 A full-stack mobile application focused on real-time communication and geolocation. <br>
-Highlights:
-<ul>
-<li>Secure authentication using JWT (Access & Refresh Tokens)</li>
-<li>Backend built with ASP.NET Core + Identity</li>
-<li>Real-time updates using SignalR</li>
-<li>RabbitMQ for message brokering and scalability</li>
-<li>Location sharing and geospatial features</li>
-</ul>
-Tech Stack: React Native, ASP.NET Core, Identity, JWT, RabbitMQ, SignalR <br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoPoeta.GustavoPoeta&right_color=mediumpurple"  />
+</div>
 
-2️⃣ PigeOn – -Time Friendship and Messaging System <br>
-📱 PigeOn is a practical back-end application demonstrating how to build friendship and messaging systems with real-time notifications  <br>
-Highlights:
-<ul>
-<li>Backend built with ASP.NET Core</li>
-<li>Real-time updates using SignalR</li>
-<li>Secure friendship system that preserves user integrity by guaranteeing that it is mutual.</li>
-<li>Real-time messaging system.</li>
-</ul>
-Tech Stack: ASP.NET Core, NATS, SignalR <br>
+###
 
-3️⃣ Resume Bank – Academic & Professional Platform <br>
-📄 An online resume bank developed as my final technical project for ETEC Prof. Jadyr Salles.<br>
-Highlights:
-<ul>
-<li>MVC architecture using vanilla PHP</li>
-<li>Focus on data protection and LGPD compliance</li>
-<li>Designed to connect students with companies</li>
-<li>Emphasis on security, organization, and usability</li>
-</ul>
-Tech Stack: HTML, CSS, JavaScript, PHP <br>
-<a href="https://github.com/GustavoPoeta/bancoCurriculosCPS">🔗 View Repository</a> <br> <br>
+<h1 align="center">Welcome!👋</h1>
 
-4️⃣ Night Owl Messenger – Peer-to-Peer Chat <br>
-💬 A minimalistic and comfortable real-time chat application. <br>
-Highlights:
-<ul>
-<li>RESTful backend with Express</li>
-<li>Secure password hashing using Bcrypt</li>
-<li>Clean and simple UI</li>
-</ul>
-Tech Stack: React, Node.js, Express, Axios <br>
-<a href="https://github.com/GustavoPoeta/Messenger">🔗 View Repository</a> <br> <br>
+###
 
-📫 Contact Me: <br> 
-📞 Phone: +55 (19) 99250-1219 <br>
-✉️ Email: gustavpoeta@gmail.com (preferred) <br>
-💼 <a href="www.linkedin.com/in/gustavopoeta">LinkedIn</a> <br>
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-Feel free to explore my repositories or reach out — I’m always open to learning, collaborating, and new opportunities.
+<p align="left">I'm Gustavo, a Full-stack developer from Brazil.<br><br>- 🔭 I’m open for a job opportunity!<br>- 📚 I'm currently learning the .NET ecosystem, and clean architecture!<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 My tech stack</h3>
+
+###
+
+<h4 align="left">⚛ Front-end :</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h4 align="left">🌐 Back-end :</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+</div>
+
+###
+
+<h4 align="left">🗄️ Databases</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h4 align="left">📦 Others</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoPoeta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
