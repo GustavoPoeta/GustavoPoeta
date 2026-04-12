@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Gustavo, a Full-stack developer from Brazil.<br><br>- 🔭 I’m open for a job opportunity!<br>- 📚 I'm currently learning the .NET ecosystem, design patterns and software architecture!<br>- ⚡ In my free time I develop projects, play violin and games</p>
+<p align="left">I'm Gustavo, a Full-stack developer from Brazil.<br><br>- 🔭 I’m looking for a internship opportunity!<br>- 📚 I'm currently learning the .NET ecosystem, design patterns and software architecture!<br>- ⚡ In my free time I develop projects, play violin and games</p>
 
 ###
 
