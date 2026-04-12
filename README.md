@@ -109,8 +109,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoPoeta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPoeta)](https://github.com/GustavoPoeta/github-readme-stats)
 </div>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoPoeta)](https://github.com/GustavoPoeta/github-readme-stats)
 
 ###
