@@ -103,13 +103,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPoeta)](https://github.com/GustavoPoeta/github-readme-stats)
-</div>
-
-###
