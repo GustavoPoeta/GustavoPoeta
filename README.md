@@ -30,6 +30,7 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
+###
 
 <p align="left">I'm Gustavo, a Full-stack developer from Brazil.<br><br>- 🔭 I’m open for a job opportunity!<br>- 📚 I'm currently learning the .NET ecosystem, design patterns and software architecture!<br>- ⚡ In my free time I develop projects, play violin and games</p>
 
@@ -37,7 +38,7 @@
 
 <h2 align="left">🛠 My tech stack</h2>
 
-
+###
 
 <h3 align="left">⚛ Front-end :</h3>
 
