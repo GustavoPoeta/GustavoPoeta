@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://i.pinimg.com/1200x/46/eb/d9/46ebd97f6d550a2e7b7aacbbdf844871.jpg"  />
 </div>
 
 ###
@@ -24,23 +24,23 @@
 
 ###
 
-<h1 align="center">Welcome!👋</h1>
+<h1 align="center"></hi!>👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Gustavo, a Full-stack developer from Brazil.<br><br>- 🔭 I’m open for a job opportunity!<br>- 📚 I'm currently learning the .NET ecosystem, and clean architecture!<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Gustavo, a Full-stack developer from Brazil.<br><br>- 🔭 I’m open for a job opportunity!<br>- 📚 I'm currently learning the .NET ecosystem, design patterns and software architecture!<br>- ⚡ In my free time I develop projects, play violin and games</p>
 
 ###
 
-<h3 align="left">🛠 My tech stack</h3>
+<h2 align="left">🛠 My tech stack</h2>
 
 ###
 
-<h4 align="left">⚛ Front-end :</h4>
+<h3 align="left">⚛ Front-end :</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h4 align="left">🌐 Back-end :</h4>
+<h3 align="left">🌐 Back-end :</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="left">🗄️ Databases</h4>
+<h3 align="left">🗄️ Databases</h3>
 
 ###
 
@@ -90,7 +90,7 @@
 
 ###
 
-<h4 align="left">📦 Others</h4>
+<h3 align="left">📦 Others</h3>
 
 ###
 
